@@ -4,7 +4,13 @@ This repo will get you up and running with graphite with a vagrant image. To use
 
 $`git clone git://github.com/charliek/vagrant-graphite.git`
 
-$`cd vagrant-graphite/vagrant/graphite-test`
+If you are on a 1.1.x vagrant verison go to:
+
+$`cd vagrant-graphite/vagrant/1.1.x`
+
+If you are on a 1.0.x vagrant verison go to:
+
+$`cd vagrant-graphite/vagrant/1.0.x`
 
 $`vagrant up`
 
